@@ -1,2 +1,2 @@
-#BMS
+BMS
 building management system
